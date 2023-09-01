@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Gundam",
+      "id": 2
+    },
+    {
+      "title": "Dragon Ball Super",
+      "id": 3
+    },
+    {
+      "title": "One Piece",
+      "id": 4
+    }
+  ]
+}
