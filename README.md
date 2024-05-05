@@ -3,7 +3,7 @@ A Reading List Web Application utilizing React, Bulma, and JSX. Picsum.photos em
 images for the books cover. JSON Server is implemented to quickly create a RESTful API. This is to simulates
 functionality of a genuine API and database, while circumventing the necessity for a conventional backend server 
 or intricate database configuration. This collections of technology allow for data persistence and further 
-research for Engineers into API development with modern web development frameworks.
+research for Engineering API developmeet with modern web development frameworks.
 
 Node Setup Steps:
 1. Install Node for Windows or Mac.
